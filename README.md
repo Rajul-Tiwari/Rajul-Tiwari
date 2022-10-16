@@ -34,25 +34,25 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 ### 🌱 I’m from Sagar, M.p, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
 - 👨‍💻 All of my projects are available at [Portfolio 😊](https://Rajul-Tiwari.github.io)
 
-- 🌱 I’m currently learning **React Advanced**
+- 🌱 I’m currently learning **JAVA**
 
- - 🔭 Individual Project [Myntra-Clone ](https://github.com/Rajul-Tiwari/used-lace-1162.git)
+ - 🔭 Individual Project [](https://github.com/Rajul-Tiwari/used-lace-1162.git)
 
-- 👯 Group Project 1 [Sephora-Clone](https://github.com/UrsTrulyAditya/Sephora-Clone.git)
+- 👯 Group Project 1 []()
 
 - 💬 Ask me about **Fronted**
 
 - 📫 How to reach me **rajult4@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/12Gd7HGtrqxOvIYEdPkASSUA4ZEc38R8Q/view)
+- 📄 Know about my experiences [RESUME]()
 
 - ⚡ Fun fact **Food and Music🎵 are the reasons to live😊**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h3 align="center">Connect with me:</h3>
 <p align="center" >
-<a href="https://linkedin.com/in/www.linkedin.com/in/faizan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/faizan7" height="30" width="40" /></a>
-<a href="https://instagram.com/mrfai_zan786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrfai_zan786" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajul-tiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/faizan7" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mr_tiwari_oo7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrfai_zan786" height="30" width="40" /></a>
 </p>
 
 
@@ -66,27 +66,9 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 <h2 align="center">PROJECT'S</h2>
 
-[Myntra-Clone ](https://github.com/Faizankhan99/used-lace-1162.git)
-<h3>This website is a clone of "Myntra.com". It is a online Shopping Site for Fashion & Lifestyle in India. India's Fashion Expert brings you a variety of footwear, Clothing, Accessories and lifestyle products ....<h3/>
-<h3>Individual Project | Duration: 04 Days<h3/>
-<h3>TECH STACK: REACT | CSS | JAVASCRIPT | JSON SERVER | CHAKRA UI</h3>
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
- 
-[Sephora-Clone](https://github.com/UrsTrulyAditya/Sephora-Clone.git)
-# Team Details:-
-1. Aditya (as a Team Lead)  [Github profile](https://github.com/UrsTrulyAditya)
-2. Faizan Khan (as a team member) [Github profile](https://github.com/Faizankhan99)
-3. Anchal jaiswal (as a team member) [Github profile](https://github.com/anchal275)
-4. Abhilash Kumar Debata(as a team member) [Github profile](https://github.com/litundebata)
-5. Robin (as a team member) [Github profile](https://github.com/Robin-111) 
-# Project Details:-
-This project were completed by a team of 5 member during Masai School unit 2 construct week in 5 days.
-We have done this projct using HTML5, CSS, JavaScript, and  external JavaScript and css library like:-
-1. Bootstrap (One of the most used JavaScript Library)
-2. jQuery.js ( We use this to make Slider of collection ) etc.
 
-we have also used some local Data base to collect the data from main website.
-this was a clone of a # Sephora website. . Sephora is a Beauty website, Buy cosmetics & beauty products online from Sephora, the online shopping beauty store. Browse makeup,more from top beauty brands
+
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
  
@@ -94,11 +76,11 @@ this was a clone of a # Sephora website. . Sephora is a Beauty website, Buy cosm
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p><img width="90%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizankhan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&layout=compact" alt="faizankhan99" /></p>
+<p><img width="90%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajul-Tiwari&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&layout=compact" alt="Rajul-Tiwari" /></p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<p>&nbsp;<img width="90%" align="center" src="https://github-readme-stats.vercel.app/api?username=faizankhan99&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="faizankhan99" /></p>
+<p>&nbsp;<img width="90%" align="center" src="https://github-readme-stats.vercel.app/api?username=Rajul-Tiwari&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Rajul-Tiwari" /></p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizankhan99&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="faizankhan99" /></p>
+<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajul-Tiwari&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Rajul-Tiwari" /></p>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
