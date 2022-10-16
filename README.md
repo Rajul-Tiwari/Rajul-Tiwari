@@ -17,13 +17,7 @@ Rajul-Tiwari" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h2>ABOUT</h2>
-<p>I'm a Full Stack Developer. I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️ I am fluent in classics like Javascript.
-
-My field of Interest's are building new Web Technologies and Products. and also in areas related to Deep Learning and Natural Launguage Processing.
-
-Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks like React.js,Express
-
-I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and colne project with team collaboration.</p>
+<p>“Hello, I’m Rajul, and I’m passionate about building things for the web. Lately, I’ve discovered my passion for the world of web development and the beauty behind building useful websites like the one you will find in this portfolio. I’m now looking for a junior dev position to finally kick start my career and learn among professionals.”.</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
