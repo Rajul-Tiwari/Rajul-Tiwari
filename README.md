@@ -78,6 +78,7 @@ Rajul-Tiwari" /></a> </p>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+[![Divya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rajul-Tiwari&&theme=xcode)](https://github.com/Rajul-Tiwari)
 
 
 
